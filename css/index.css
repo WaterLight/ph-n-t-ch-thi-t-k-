@@ -36,18 +36,20 @@
 .thoigian {
 	width: 600px;
 	margin: auto;
-	background-color: #fff;
+	background-color: #eee;
 	display: flex;
 }
 
 .thoigian > div > div {
 	text-align: center;
 	width: 200px;
-	border: 2px solid #eee;
 
 }
 
-.thoigian a {
-	text-decoration: none;
-	color: #000;
+.thoigian button {
+	width: 198px;
+	background-color: #fff;
+	cursor: pointer;
+	border-style: none;
+	border: 2px solid #eee;
 }
