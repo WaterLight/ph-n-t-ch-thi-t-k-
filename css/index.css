@@ -18,14 +18,9 @@
 	border: 2px solid #eee;
 }
 
-.datlich > .homnay {
-	background-color: #000;
-	color: #fff;
-}
-
 .datlich .homnay a {
 	text-decoration: none;
-	color: #fff;
+	color: #000;
 }
 
 .datlich .ngaymai a {
@@ -43,14 +38,13 @@
 	margin: auto;
 	background-color: #fff;
 	display: flex;
-	flex-wrap: wrap;
-    flex-direction: row;
 }
 
-.thoigian > div {
+.thoigian > div > div {
 	text-align: center;
-	width: 150px;
+	width: 200px;
 	border: 2px solid #eee;
+
 }
 
 .thoigian a {
